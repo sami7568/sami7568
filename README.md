@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm a **Senior Flutter Developer** with expertise 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
@@ -43,7 +44,7 @@ Welcome to my GitHub profile! I'm a **Senior Flutter Developer** with expertise 
 ---
 
 ### ✨ Let's Connect!
-🔗 [LinkedIn](https://www.linkedin.com/in/sami-dev)  |  📧 [Email](mailto:sami@example.com)  |  🐦 [Twitter](https://twitter.com/samidev)
+🔗 [LinkedIn](https://www.linkedin.com/in/sami-ullah-durrani)  |  📧 [Email](mailto:samijan7568@gmail.com)  |  🐦 [Twitter](https://twitter.com/)
 
 ---
 

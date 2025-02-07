@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm a **Senior Flutter Developer** with expertise 
 ---
 
 ### 📈 GitHub Stats
-![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samij7568-dev&show_icons=true&theme=radical)
+![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sami7568-dev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samij7568-dev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sami7568-dev&layout=compact&theme=radical)
 
 ---
 
